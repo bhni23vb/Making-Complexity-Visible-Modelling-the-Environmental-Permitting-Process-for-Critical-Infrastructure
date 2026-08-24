@@ -1,0 +1,11 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+
+# Local working files that must not be published
+drafts/
+private/
+confidential/
+
