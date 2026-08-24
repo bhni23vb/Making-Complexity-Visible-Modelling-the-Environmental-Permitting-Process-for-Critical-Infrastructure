@@ -1,6 +1,5 @@
-# BPMN source model
+# Simplified BPMN model
 
-This folder is reserved for the publication-approved BPMN source file.
+This folder contains the publication-approved PDF of the simplified BPMN model for Type B environmentally hazardous activities.
 
-Do not add working models, interview data, case-study documents, confidential information, personal data, or files whose publication has not been authorized.
-
+The PDF is provided as an illustrative example of the process-modelling approach used in the DBP26 Practice Track contribution. It is not a complete representation of every environmental permitting pathway or legal guidance.
